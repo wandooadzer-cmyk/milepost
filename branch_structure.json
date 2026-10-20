@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "feat/award-detail-page",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "feat/award-detail-page": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "feat/award-detail-page",
+    "origin"
+  ]
+}

@@ -1,7 +1,5 @@
 target/
 .stellar/
-.env
-.env.*
 !.env.example
 
 node_modules/
@@ -23,7 +21,7 @@ drafts/
 # `cargo test`, and one parameterised test can emit hundreds, so tracking them
 # means constant churn for no review value.
 test_snapshots/
-.vscode
 # cargo-mutants results; ./scripts/mutants.sh prints the part worth reading.
 mutants.out/
 mutants.out.old/
+config.bat
